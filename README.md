@@ -48,4 +48,10 @@ crontab -e
 ```
 This will be run every minute.
 
+## Result
+
+Data is currently being written to a csv file. You can read with an [online csv viewer](https://limonte.github.io/csv-viewer-online/)
+
+![image](img/ss.png)
+
 Have fun!
